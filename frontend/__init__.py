@@ -1,0 +1,1 @@
+# This is only here so Python treats `frontend` as a package (optional for JS).
